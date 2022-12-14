@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Black-and-White-Modern-Chess-Tournament-Banner.png](https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png)](https://postimg.cc/dLz9bVHq)
+<hr fgcolor = "Black">
+<h1> 👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
+<h2> 📚 Aspirante a la especialización Back-End en Python o Java 📚 </h2>
+<br>
+<h3> Hola 🖐  </h3>
 
 <!--
 **Lucas-devSoft/Lucas-devSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

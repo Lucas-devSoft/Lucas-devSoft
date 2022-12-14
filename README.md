@@ -1,10 +1,13 @@
 [![Black-and-White-Modern-Chess-Tournament-Banner.png](https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png)](https://postimg.cc/dLz9bVHq)
-<hr fgcolor = "Black">
 <h1> 👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
-<h2> 📚 Aspirante a la especialización Back-End en Python o Java 📚 </h2>
+<h2> 📚 Aspirante a la especialización Back-End con Python o Java 📚 </h2>
+<h5> Hola Observador!!🖐 Bienvenido a mi plataforma de github... <br>Soy un aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y desarrollo.  
 <br>
-<h3> Hola 🖐  </h3>
-
+  <ul>
+  <li>2017 - 2019 : Estudie en una Institución Secundaria Técnica en computación, como primer lenguaje de aprendizaje fue C y al año siguiente (2018) con JAVA aplicando los fundamentos de la programación en la misma durante el trayecto de aprendizaje como alumno se desarrollaron aplicaciones para ejecutar por consola como implementar GUI (Swing) para ejecutar en un escritorio.</li>
+  <li>2022 - Actualidad : Actualmente estoy estudiando y capacitandome en la carrera de Desarrollador de software   </h5>
+  </li>
+  </ul>
 <!--
 **Lucas-devSoft/Lucas-devSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

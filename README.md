@@ -2,7 +2,7 @@
 <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
 <h2 align="center">📚 Aspirante a la especialización Back-End con Python o Java 📚 </h2>
 <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
-<h4 align="center">Soy de nacionalidad argentino, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta Pensar, Investigar, Aprender y Ejecutar para llegar a un fin Funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigando cuando no se algo y no me detengo hasta entenderlo y saber aplicarlo.</h4>  
+<h4 align="center">Soy de nacionalidad Argentina, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta Pensar, Investigar, Aprender y Ejecutar para llegar a un fin Funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigando cuando no se algo y no me detengo hasta entenderlo y saber aplicarlo.</h4>  
 <p>  
   <ul align = "center">
       <br> 
@@ -12,10 +12,20 @@
   </ul>
  </p>
  <hr>
- <h2">Redes Sociales</h2>
+ <h2 align = "center">Redes de contacto</h2> 
+<br>
  <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
-    <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width= 150 height = 150>
+    <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" align = "center" width= 100 height = 100>
  </a>
+
+   <a href = "t.me/Lucas_DevSoft" target = "_blank">
+    <img src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif" align = "center" width= 100 height = 100>
+ </a>
+
+<a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
+    <img src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif" align = "center" width= 100 height = 100>
+ </a>
+
 
 <!--
 **Lucas-devSoft/Lucas-devSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

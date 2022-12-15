@@ -22,7 +22,11 @@
  <hr>
  <h2 align = "center"> Demostración de Proyectos Personales </h2>
  <br>
-  En proceso...
+  <p align = "center"> 
+    <a href = "https://www.vidline.com/share/V072WHY812/393950b9705dc56cebeb06babc6d4f1d" target = "_blank">
+        <img width= 350 height = 350 src="https://user-images.githubusercontent.com/111676352/207923501-ff0db9ad-9368-449c-aa28-1c562fb06ac2.gif">
+    </a>
+  </p>
  <hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>

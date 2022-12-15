@@ -27,7 +27,7 @@
     <img align = "center" width= 100 height = 100 src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif">
  </a>
 
-   <a target = "_blank" href = "t.me/Lucas_DevSoft">
+   <a href = "t.me/Lucas_DevSoft" target = "_blank">
     <img align = "center" width= 100 height = 100 src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif">
  </a>
 

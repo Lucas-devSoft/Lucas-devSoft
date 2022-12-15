@@ -13,7 +13,7 @@
  </p>
  <hr>
  <h2">Redes Sociales</h2>
- <a href = "www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
+ <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
     <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width= 150 height = 150>
  </a>
 

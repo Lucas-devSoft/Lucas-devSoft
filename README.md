@@ -1,6 +1,6 @@
  <img src = "https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
- <h2 align="center">📚 Aspirante a la especialización Back-End con Python o Java 📚 </h2>
+ <h2 align="center">📚 Aspirante a la especialización Back-End 📚 </h2>
  <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
  <h4 align="center">Soy de nacionalidad Argentina, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta Pensar, Investigar, Aprender y Ejecutar para llegar a un fin Funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigando cuando no se algo y no me detengo hasta entenderlo y saber aplicarlo.</h4>  
  <p>  
@@ -12,22 +12,27 @@
   </ul>
  </p>
  <hr>
-  <H2 align = "center"> Muestra de Proyectos </h2>
+ <h2 align="center"> Lenguajes de mi interés </h2>
+ <br>
+  <img src="https://camo.githubusercontent.com/2b026fac85ca2b2d9f80d0f20b5b0d47e0e36e011c928ed2c0996c4205206492/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f30302f36302f63613030363066333431346536653230623735393833616364646166616435332e676966" w>
+ 
+ <hr>
+ <h2 align = "center"> Demostración de Proyectos Personales </h2>
  <br>
    En proceso... 
 <hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>
  <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
-    <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" align = "center" width= 100 height = 100>
+    <img align = "center" width= 100 height = 100 src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif">
  </a>
 
-   <a href = "t.me/Lucas_DevSoft" target = "_blank">
-    <img src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif" align = "center" width= 100 height = 100>
+   <a target = "_blank" href = "t.me/Lucas_DevSoft">
+    <img align = "center" width= 100 height = 100 src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif">
  </a>
 
  <a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
-    <img src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif" align = "center" width= 100 height = 100>
+    <img align = "center" width= 100 height = 100 src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif">
  </a>
 
 

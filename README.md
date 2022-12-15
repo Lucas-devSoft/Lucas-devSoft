@@ -1,9 +1,9 @@
-<img src = "https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png" width = "1000" height="350">
-<h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
-<h2 align="center">📚 Aspirante a la especialización Back-End con Python o Java 📚 </h2>
-<h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
-<h4 align="center">Soy de nacionalidad Argentina, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta Pensar, Investigar, Aprender y Ejecutar para llegar a un fin Funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigando cuando no se algo y no me detengo hasta entenderlo y saber aplicarlo.</h4>  
-<p>  
+ <img src = "https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png" align = "center" width = "1000" height="350">
+ <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
+ <h2 align="center">📚 Aspirante a la especialización Back-End con Python o Java 📚 </h2>
+ <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
+ <h4 align="center">Soy de nacionalidad Argentina, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta Pensar, Investigar, Aprender y Ejecutar para llegar a un fin Funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigando cuando no se algo y no me detengo hasta entenderlo y saber aplicarlo.</h4>  
+ <p>  
   <ul align = "center">
       <br> 
       <li>2017 - 2019 : Estudie en una Institución Secundaria Técnica en computación, como primer lenguaje de aprendizaje fue C y al año siguiente (2018) con JAVA aplicando los fundamentos de la programación en la misma, durante el trayecto de aprendizaje como alumno fuimos desarrollando aplicaciones para ejecutarse por consola como también implementamos GUI (Swing) en el ultimo año (2019).</li><br>
@@ -12,8 +12,13 @@
   </ul>
  </p>
  <hr>
+  <H2 align = "center"> Muestra de Proyectos </h2>
+ <video controls>
+   <source src="https://vimeo.com/781354457" type="video/mp4"> 
+ <\video>
+ <hr>
  <h2 align = "center">Redes de contacto</h2> 
-<br>
+ <br>
  <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
     <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" align = "center" width= 100 height = 100>
  </a>
@@ -22,7 +27,7 @@
     <img src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif" align = "center" width= 100 height = 100>
  </a>
 
-<a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
+ <a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
     <img src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif" align = "center" width= 100 height = 100>
  </a>
 

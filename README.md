@@ -14,9 +14,11 @@
  <hr>
  <h2 align="center"> Lenguajes de mi interés </h2>
  <br>
-  <img src="https://camo.githubusercontent.com/2b026fac85ca2b2d9f80d0f20b5b0d47e0e36e011c928ed2c0996c4205206492/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f30302f36302f63613030363066333431346536653230623735393833616364646166616435332e676966" w>
- 
- <hr>
+ <p>
+  <img align = "center" width= 200 height = 200 src="https://camo.githubusercontent.com/2b026fac85ca2b2d9f80d0f20b5b0d47e0e36e011c928ed2c0996c4205206492/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f30302f36302f63613030363066333431346536653230623735393833616364646166616435332e676966" w>
+  <Img align = "center" width= 200 height = 200 src="https://nexenstial.com/assets/images/java.gif">
+ </p>
+<hr>
  <h2 align = "center"> Demostración de Proyectos Personales </h2>
  <br>
    En proceso... 

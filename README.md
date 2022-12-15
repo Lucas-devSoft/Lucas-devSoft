@@ -1,5 +1,5 @@
 
- <img src = "https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png" align = "center" width = "1000" height="350">
+ <img src = "https://user-images.githubusercontent.com/111676352/207942025-e944b316-c633-4be1-b1c5-5561fe2d5153.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
  <h2 align="center">📚 Aspirante a la especialización Back-End 📚 </h2>
  <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>

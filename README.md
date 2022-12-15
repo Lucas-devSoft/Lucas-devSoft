@@ -1,3 +1,4 @@
+
  <img src = "https://i.postimg.cc/4x3FhKph/Black-and-White-Modern-Chess-Tournament-Banner.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
  <h2 align="center">📚 Aspirante a la especialización Back-End 📚 </h2>
@@ -18,11 +19,11 @@
   <img align = "center" width= 200 height = 200 src="https://camo.githubusercontent.com/2b026fac85ca2b2d9f80d0f20b5b0d47e0e36e011c928ed2c0996c4205206492/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f30302f36302f63613030363066333431346536653230623735393833616364646166616435332e676966" w>
   <Img align = "center" width= 200 height = 200 src="https://nexenstial.com/assets/images/java.gif">
  </p>
-<hr>
+ <hr>
  <h2 align = "center"> Demostración de Proyectos Personales </h2>
  <br>
    En proceso... 
-<hr>
+ <hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>
  <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">

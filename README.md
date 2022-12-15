@@ -13,10 +13,9 @@
  </p>
  <hr>
   <H2 align = "center"> Muestra de Proyectos </h2>
- <video controls>
-   <source src="https://vimeo.com/781354457" type="video/mp4"> 
- <\video>
- <hr>
+ <br>
+  [![Watch the video](https://vimeo.com/781354457.mp4)(https://vimeo.com/781354457)
+<hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>
  <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">

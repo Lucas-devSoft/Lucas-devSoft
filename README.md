@@ -22,7 +22,7 @@
  <hr>
  <h2 align = "center"> Demostración de Proyectos Personales </h2>
  <br>
- En proceso...
+  En proceso...
  <hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>

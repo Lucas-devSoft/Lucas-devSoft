@@ -16,11 +16,7 @@
  <a href = "www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
     <img src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width= 150 height = 150>
  </a>
- <a href = "sanchezlucas.devsoft@gmail.com" target = "_blank">
-    <img src= "https://cdn-images-1.medium.com/max/1600/1*99yygXrRR8ix1wDOsdjLKA.gif" width= 150 height = 150>
- </a>
- 
- <a href = "https://www.linkedin.com/in/lucasdevsoft2022/"></>
+
 <!--
 **Lucas-devSoft/Lucas-devSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

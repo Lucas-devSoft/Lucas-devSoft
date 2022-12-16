@@ -26,31 +26,26 @@
    <a href = "https://www.vidline.com/video/V0X9NHZ29E" target = "_blank">
        <img width= 200 height = 200 src = "https://user-images.githubusercontent.com/111676352/207939182-78de0539-a0d4-48a2-ba4a-7eafdafb90a6.gif">
    </a>
-    
    <a href = "https://www.vidline.com/share/V072WHY812/393950b9705dc56cebeb06babc6d4f1d" target = "_blank">
         <img width= 200 height = 200 src="https://user-images.githubusercontent.com/111676352/207923501-ff0db9ad-9368-449c-aa28-1c562fb06ac2.gif"> 
    </a>
-   <p align = "center">
-    <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Calculadora Script</a>
-    <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Formularios Script</a> 
-  </p> 
-</p>
- 
+   <pre align = "center">
+      <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts de la Calculadora</a> | <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts del Formulario</a> 
+   </pre> 
+ </p>
  <hr>
  <h2 align = "center">Redes de contacto</h2> 
  <br>
  <p align = "center">
- <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
-    <img width= 100 height = 100 src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif">
- </a>
-
+   <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
+      <img width= 100 height = 100 src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif">
+   </a>
    <a href ="https://t.me/Lucas_DevSoft" target = "_blank">
-    <img width= 100 height = 100 src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif">
- </a>
-
- <a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
-    <img width= 100 height = 100 src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif">
- </a>
+      <img width= 100 height = 100 src= "https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif">
+   </a>
+   <a href = "mailto: sanchez.lucas.devsoft@gmail.com" target = "_blank">
+      <img width= 100 height = 100 src= "https://thumbs.gfycat.com/ValuableRelievedBaiji-size_restricted.gif">
+   </a>
 </p>
 
 <!--

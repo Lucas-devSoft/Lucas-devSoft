@@ -30,7 +30,7 @@
         <img width= 200 height = 200 src="https://user-images.githubusercontent.com/111676352/207923501-ff0db9ad-9368-449c-aa28-1c562fb06ac2.gif"> 
    </a>
    <pre align = "center">
-      <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts de la Calculadora</a> | <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts del Formulario</a> 
+      <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts de la Calculadora</a> | <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Formulario/Scripts"> Scripts del Formulario</a> 
    </pre> 
  </p>
  <hr>

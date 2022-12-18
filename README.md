@@ -1,7 +1,7 @@
 
  <img src = "https://user-images.githubusercontent.com/111676352/207942025-e944b316-c633-4be1-b1c5-5561fe2d5153.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
- <h2 align="center">📚 Aspirante a la especialización Back-End 📚 </h2>
+ <h2 align="center">📚 Aspirante a la Especialización de Aplicaciones de Escritorio 📚 </h2>
  <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
  <h4 align="center">Soy Argentino, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta pensar, investigar, aprender y ejecutar lo aprendido para llegar a un software funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigar cuando no se algo y no detenerme hasta lograr entender y poder aplicarlo.</h4>  
  <p align = "center">  
@@ -12,16 +12,16 @@
   </li>
   </ul>
  </p>
- <hr>
- <h2 align="center"> Lenguajes de mi interés </h2>
- <br>
+ <p align = "center">
+ <img width= 1000 height = 100 src="https://user-images.githubusercontent.com/111676352/208318310-eb26c229-55be-4b0f-a537-67add0ccdd6d.gif">
+ </p>
  <p align = "center">
   <img width= 100 height = 100 src="https://camo.githubusercontent.com/2b026fac85ca2b2d9f80d0f20b5b0d47e0e36e011c928ed2c0996c4205206492/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f30302f36302f63613030363066333431346536653230623735393833616364646166616435332e676966" w>
   <img width= 100 height = 100 src="https://nexenstial.com/assets/images/java.gif">
  </p>
- <hr>
- <h2 align = "center"> Demostración de Proyectos Personales </h2>
- <br>
+ <p align = "center">
+   <img width= 1000 height = 100 src="https://user-images.githubusercontent.com/111676352/208318847-2ececbc2-efd8-4519-9bc8-26e2984e3ed8.gif">
+ </p>
  <p align = "center"> 
    <a href = "https://www.vidline.com/video/V0X9NHZ29E" target = "_blank">
        <img width= 200 height = 200 src = "https://user-images.githubusercontent.com/111676352/207939182-78de0539-a0d4-48a2-ba4a-7eafdafb90a6.gif">
@@ -33,9 +33,9 @@
       <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Calculadora/Scripts"> Scripts de la Calculadora</a> | <a  href ="https://github.com/Lucas-devSoft/Proyectos_Python/tree/main/Formulario/Scripts"> Scripts del Formulario</a> 
    </pre> 
  </p>
- <hr>
- <h2 align = "center">Redes de contacto</h2> 
- <br>
+ <p align = "center">
+  <img width= 1000 height = 100 src="https://user-images.githubusercontent.com/111676352/208319146-ac83c1a2-b131-4309-ae29-ecf2b0091555.gif">
+ </p>
  <p align = "center">
    <a href = "https://www.linkedin.com/in/lucasdevsoft2022/" target = "_blank">
       <img width= 100 height = 100 src= "https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif">

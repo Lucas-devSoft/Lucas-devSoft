@@ -1,14 +1,14 @@
 
  <img src = "https://user-images.githubusercontent.com/111676352/207942025-e944b316-c633-4be1-b1c5-5561fe2d5153.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
- <h2 align="center">📚 Aspirante a la Especialización con Python 📚 </h2>
+ <h2 align="center">📚 Aspirante a la Especialización con Java 📚 </h2>
  <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
- <h4 align="center">Soy Argentino, tengo 31 años y soy aspirante del mundo IT ya que vengo relacionandome poco a poco con el mundo de la programación y el desarrollo. Me gusta pensar, investigar, aprender y ejecutar lo aprendido para llegar a un software funcional, pero ante todo soy una persona curiosa que le gusta aprender y pro-activa, investigar cuando no se algo y no detenerme hasta lograr entender y poder aplicarlo.</h4>  
+ <h4 align="center">Soy Argentino, tengo 31 años y estoy aspirando al mundo profesional en IT ya que me vengo relacionando poco a poco con el mundo de la programación y el desarrollo. Me gusta pensar y utilizar lógica, investigar por mi cuenta, aprender y ejecutar lo que voy aprendiendo para crear una funcionalidad o un software que funcione también soy una persona curiosa y sobre todo me gusta aprender con pro-actividad, cuando desconozco algo o no se hacer algo lo investigo y no paro hasta lograr comprender para poder aplicarlo.</h4>  
  <p align = "center">  
   <ul>
       <br> 
-      <li>2017 - 2019 : Estudie en una Institución Secundaria Técnica en computación, como primer lenguaje de aprendizaje fue C y al año siguiente (2018) con JAVA aplicando los fundamentos de la programación en la misma, durante el trayecto de aprendizaje como alumno fuimos desarrollando aplicaciones para ejecutarse por consola como también implementamos GUI (Swing) en el ultimo año (2019).</li><br>
-      <li>2022 - Actualidad : Actualmente estoy estudiando y capacitandome en la carrera de Desarrollador de software en el Instituto de Formación Técnica Superior N°18 DE 02, como primer y único lenguaje de programación visto hasta el momento fue Python y es un lenguaje con el que me enamoré por su facil sintaxis. En ese lenguaje me siento super comodo y super motivado para seguir aprendiendo.
+      <li> Secundaria Técnica en Computación (2017 - 2019) : Como primer lenguaje de programación aprendimos los fundamentos de la programación con C y al año siguiente cuando llego el tema relacionado con los objetos adaptamos y aplicamos esos fundamentos de programación con JAVA SE, durante el trayecto de aprendizaje fuimos desarrollando aplicaciones para ejecutarse por consola como la implementacion de Interfaces Gráficas (GUI-Swing).</li><br>
+      <li> Técnicatura Superior en Desarrollo de Software (2022 - Actualidad) : Actualmente estoy estudiando y capacitandome en la carrera de Desarrollador de software para seguir con el crecimiento de mis conocimientos y habilidades. Como alumno del Instituto de Formación Técnica Superior N°18 DE 02 busco desarrollarme profesionalmente en el sector de la programación super motivado y con muchas ganas de seguir aprendiendo.
   </li>
   </ul>
  </p>

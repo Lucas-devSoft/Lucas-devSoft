@@ -1,14 +1,16 @@
 
  <img src = "https://user-images.githubusercontent.com/111676352/207942025-e944b316-c633-4be1-b1c5-5561fe2d5153.png" align = "center" width = "1000" height="350">
  <h1 align="center">👨‍💻 Lucas Ezequiel Sanchez 👨‍💻 </h1>
- <h2 align="center">📚 Aspirante a la Especialización con Java 📚 </h2>
+ <h2 align="center">📚 Aspirante a la Especialización Java o Python 📚 </h2>
  <h3 align="center"> Hola Observador!!🖐 Bienvenido a mi plataforma de github!!.</h3>
  <h4 align="center">Soy Argentino, tengo 31 años y estoy aspirando al mundo profesional en IT ya que me vengo relacionando poco a poco con el mundo de la programación y el desarrollo. Me gusta pensar y utilizar lógica, investigar por mi cuenta, aprender y ejecutar lo que voy aprendiendo para crear una funcionalidad o un software que funcione también soy una persona curiosa y sobre todo me gusta aprender con pro-actividad, cuando desconozco algo o no se hacer algo lo investigo y no paro hasta lograr comprender para poder aplicarlo.</h4>  
  <p align = "center">  
   <ul>
       <br> 
-      <li> Secundaria Técnica en Computación (2017 - 2019) : Como primer lenguaje de programación aprendimos los fundamentos de la programación con C y al año siguiente cuando llego el tema relacionado con los objetos adaptamos y aplicamos esos fundamentos de programación con JAVA SE, durante el trayecto de aprendizaje fuimos desarrollando aplicaciones para ejecutarse por consola como la implementacion de Interfaces Gráficas (GUI-Swing).</li><br>
-      <li> Técnicatura Superior en Desarrollo de Software (2022 - Actualidad) : Actualmente estoy estudiando y capacitandome en la carrera de Desarrollador de software para seguir con el crecimiento de mis conocimientos y habilidades. Como alumno del Instituto de Formación Técnica Superior N°18 DE 02 busco desarrollarme profesionalmente en el sector de la programación super motivado y con muchas ganas de seguir aprendiendo.
+      <li> <b>Secundaria Técnica en Computación (2017 - 2019)</b>: <i>Como primer lenguaje de programación aprendimos los fundamentos de la programación con C y al año siguiente cuando llego el tema relacionado con los objetos adaptamos y aplicamos esos fundamentos de programación con JAVA SE, durante el trayecto de aprendizaje fuimos desarrollando aplicaciones para ejecutarse por consola como la implementacion de Interfaces Gráficas (GUI-Swing).</i>
+    </li>
+    <br>
+    <li> <b>Técnicatura Superior en Desarrollo de Software (2022 - Actualidad)</b>: <i>Actualmente estoy estudiando y capacitandome en la carrera de Desarrollador de software para seguir con el crecimiento de mis conocimientos y habilidades. Como alumno del Instituto de Formación Técnica Superior N°18 DE 02 busco desarrollarme profesionalmente en el sector de la programación super motivado y con muchas ganas de seguir aprendiendo.</i>
   </li>
   </ul>
  </p>
